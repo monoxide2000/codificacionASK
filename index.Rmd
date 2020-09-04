@@ -1,7 +1,7 @@
 ---
 title: "Codificación Digital/Analógico"
 author: "Julio César Ramirez-Pacheco"
-date: "Junio 2020"
+date: "3 Septiembre 2020"
 output:
   html_document:
     css: "style.css"
@@ -77,7 +77,7 @@ lines(time, ask)
 
 ## Tareas
 
-Implementar las siguientes codificaciones de señales digitales a analógicas e investigar su aplicación en las redes de comunicaciones.
+Implementar las siguientes codificaciones de señales digitales a analógicas e investigar su aplicación en las redes de comunicaciones inalámbricas: Fecha de entrega Lunes 14 de Septiembre.
 
 - FSK
 - PSK
